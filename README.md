@@ -1,1 +1,3 @@
 # chain_smoker_problem_semaphore
+
+The goal of this project is to develop a system call that addresses the issue of chain smoking. Application programmers can request services from the operating system using system calls, which can either be user system calls (without kernel intervention) or kernel system calls (with kernel intervention). By developing system calls we can enable efficient and effective communication and synchronization between the agent and the smokers. Overall, this project aims to improve the performance and functionality of problems with respect to system call to handle synchronization problems.
